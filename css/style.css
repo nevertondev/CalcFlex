@@ -1,0 +1,23 @@
+body{
+    background-image: url("fundo.jfif") ;
+  
+}
+h1{
+  color: rgb(124, 22, 22);
+  background: dimgray;
+  font-family: cursive;
+}
+
+.etanol{
+    border-radius: 20px;
+    
+}
+.gasolina{
+    border-radius: 20px;
+}
+.buttonvantagem{
+cursor: pointer;
+}
+.buttonreset{
+    cursor: pointer;
+}
